@@ -1,4 +1,4 @@
-# CSV Analysis Assistant
+# Data Exploration and Analysis Assistant
 
 Upload a CSV, ask natural-language questions, and get plots + statistics + an LLM
 interpretation. Claude reads a bounded profile of your data, selects from a fixed
